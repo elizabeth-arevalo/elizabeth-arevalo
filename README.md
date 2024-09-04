@@ -48,7 +48,7 @@ Estoy abierta a colaborar en proyectos relacionados con:
 ### 📫 ¿Cómo llegar a mí?
 
 - **GitHub**: [github.com/elizabeth-arevalo](https://github.com/elizabeth-arevalo)
-- **LinkedIn**: [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/elizabeth-paulina-ar%C3%A9valo-sandoval-2875b0228/)
+- **LinkedIn**: [linkedin.com/in/elizabeth-paulina-ar](https://www.linkedin.com/in/elizabeth-paulina-ar%C3%A9valo-sandoval-2875b0228/)
 
 ---
 
